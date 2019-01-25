@@ -8,10 +8,9 @@
                 <div class="panel-body">
                     <table id="dtskripsi" class="table table-bordered table-striped table-hover">
                         <thead>
-                            <label class="col-sm-12 control-label"><center><strong>PENGADILAN NEGERI KISARAN</strong></center></label>
+                            <label class="col-sm-12 control-label"><center><strong>SMA N 1 AIR BATU/strong></center></label>
                             <p align="center">
-                              Jalan Jendral Ahmad Yani No. 33, Sei Renggas, Kisaran, Sendang Sari, Kisaran Barat<br>
-                              Kabupaten Asahan, Sumatera Utara, Kode Pos : 21211
+                              Jalan Sei Alim Ulu, Air Batu, Kabupaten Asahan, Sumatera Utara 21272
                             </p>
                         </thead>
                         <tbody>
@@ -21,9 +20,7 @@
                           <div class="col-sm-8" align="center">
                             <br>
                             Telp. 12345678<br>
-                            Email : pnkisaran@webmail.com<br>
-                            Fax : 1234567<br>
-                            Website : pnkisaran.go.id<br>
+                            
                             <br>
                           </div>
                           <div class="col-sm-2" align="center">
