@@ -9,7 +9,7 @@
                     <table id="dtskripsi" class="table table-bordered table-striped table-hover">
                         <thead>
                             <p align="center"><img src="img/LOGOS.png" width="200px" height="200px"></img></p>
-                            <label class="col-sm-12 control-label"><center><strong>SISTEM INFORMASI <br> SMA NEGERI 3 KOTA TANJUNG BALAI </strong></center></label>
+                            <label class="col-sm-12 control-label"><center><strong>SISTEM INFORMASI <br>  SMA N 1 AIR BATU </strong></center></label>
                         </thead>
                         <tbody>
                           <div class="col-sm-2" align="center">
@@ -17,7 +17,7 @@
                           </div>
                           <div class="col-sm-8" align="center">
                             <br>
-                            Sistem Informasi SMA NEGERI 3 KOTA TANJUNG BALAI Adalah Sistem Informasi Yang Dibuat Untuk Mempermudah Pendataan Siswa Di Sekolah SMA N3 Dengan Sistem Ini Diharapkan Data Yang Tersimpan Lebih Akurat Dan Keamanannya Terjaga Dibandingkan Sistem Yang Sebelumnya Yang Pernah Berjalan.
+                            Sistem Informasi SMA NEGERI 1 KOTA AIR BATU Adalah Sistem Informasi Yang Dibuat Untuk Mempermudah Pendataan Siswa Di Sekolah SMA N1 Dengan Sistem Ini Diharapkan Data Yang Tersimpan Lebih Akurat Dan Keamanannya Terjaga Dibandingkan Sistem Yang Sebelumnya Yang Pernah Berjalan.
                             <br><br><br>
                           </div>
                           <div class="col-sm-2" align="center">
